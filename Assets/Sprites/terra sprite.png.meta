@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: a73d541b5c807384d947ef9c79c1f310
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: terra_walk_up_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 266
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra_walk_up_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 266
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra_walk_up_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 266
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 266
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 266
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 266
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 266
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 265
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 265
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra_walk_down_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 237
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra_walk_down_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 237
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra_walk_down_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 237
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 237
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 237
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 238
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 238
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra_walk_left_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 207
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra_walk_left_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 207
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra_walk_left_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 207
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 207
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 204
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 204
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 209
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 209
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 202
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra_walk_right_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 179
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra_walk_right_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 179
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra_walk_right_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 179
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 180
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 180
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 168
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 148
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 148
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 148
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 151
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 151
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 151
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 142
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 120
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_43
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 120
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 120
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 122
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 122
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_48
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 122
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 115
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 97
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_51
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 72
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_52
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 95
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 95
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 93
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 221
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terra sprite_56
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
